@@ -95,5 +95,5 @@ echo "|Your current NODE version is " `node -v` "   |"
 echo "--------------------------------------------"
 
 echo "-------------------------------------------"
-echo "|Your current NODE version is " `npm -v` "   |"
+echo "|Your current NPM version is " `npm -v` "   |"
 echo "-------------------------------------------"
