@@ -3,6 +3,6 @@ Manage and install NODE and NPM with custom versions for ubuntu
 
 Open Terminal and copy-paste the below script
 
-# curl https://raw.githubusercontent.com/HaareeKrishna/node-npm-installer/master/src/install.sh | sh
+* curl https://raw.githubusercontent.com/HaareeKrishna/node-npm-installer/master/src/install.sh | sh
 
 Provide respective versions for Node and NPM. Set back and relax!
